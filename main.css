@@ -1,13 +1,13 @@
-*{body{backgound-color: rgb; aliceblue; 
+*{body backgound-color: rgb; aliceblue; 
 }
 font-style: ariel;
 font-size: 20px;
 color: grey;
 text-align: center;
 
-{
 
-}
+
+
 
 h1{text-align: center; font-size: 30px; color: blue; 
 }
@@ -31,5 +31,14 @@ h3{
 /* <img src="abstract-pixelated-background_1048-7724.jpg" width="400" height="240">
 h1{ */ 
 
-    *body{background: 100px,100px,100px;
-    }
+body{
+    background-image: url("abstract-pixelated-background_1048-7724.jpg");
+}
+      
+      /* .bg {background-image: 100px,100px,100px;
+    height:100%;
+
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
