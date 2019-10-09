@@ -8,11 +8,11 @@ text-align: center;
 
 
 
-h1{
+/* h1{
     font-style: ariel
     text-align: center; 
     font-size: 70px; 
-    color: blue;  */
+    color: blue;  */ */
 
    
 
@@ -23,7 +23,7 @@ h1{
     button {
         margin:auto;
         display:block;
-      } */
+      } 
 
 h1{
     text-align: center;
@@ -58,7 +58,7 @@ h4{
 h5{
     text-align: center; 
         font-size: 30px;
-        color:rgb(163, 151, 151) */ 
+        color:rgb(163, 151, 151) 
 
 /* <img src="abstract-pixelated-background_1048-7724.jpg" width="400" height="240">
 h1{ */ 
@@ -70,49 +70,3 @@ h1{ */
       /* } */
     /* background-blend-mode:lighten 50; */
 
-
-      
-      /* .bg {background-image: 100px,100px,100px;
-    height:100%;
-
-    background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
-/* .split {
-    height: 100%;
-    width: 50%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    overflow-x: hidden;
-
-padding-top: 20px;
-}
-
-/* Control the left side */
-.left {
-  left: 0;
-  background-color: #111;
-}
-
-/* Control the right side */
-.right {
-  right: 0;
-  background-color: red;
-}
-
-/* If you want the content centered horizontally and vertically */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-/* Style the image inside the centered container, if needed */
-.centered img {
-  width: 150px;
-  border-radius: 50%;
-} */
